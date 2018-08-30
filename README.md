@@ -1,7 +1,7 @@
 # GIT431-Project-To-the-Moon-
 This project will be a proof of concept for possible game developed in the style of a 3D platformer.
 
-Character/Art lead: Elizabeth Layman
+Product Owner / Character & Art lead: Elizabeth Layman
 Test/Debug lead: Jacob Janas
 Developing lead: Erik Isaacson
 
